@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Radio Gewinnspiel</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="local_service_started">Local Service Started</string>
+    <string name="local_service_stopped">Local Service Stopped</string>
+    <string name="local_service_label">Label of the Service</string>
+    <string name="notification_title">Radio Gewinnspiel</string>
+    <string name="notification_text">Mytesttext</string>
+    <string name="title_activity_tutorial">TutorialActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="Tutorial_1">Dies ist die App, die dir hilft bei Radio Gewinnspielen vorne mit dabei zu sein.
+Mit dieser App kannst du die Songs, die im Radio laufen im Auge behalten, ohne beim Sender mitzuhören. Das macht die App ganz von allein. Du wirst dann benachrichtigt wenn ein gewünschtes Lied oder Interpret gespielt wird.
+Dann müsst Ihr nur auf eine Taste drücken und die vorgespeicherte Nummer zum Sender wird gewählt.</string>
+    <string name="Tutorial_2">Bemerkung:
+Dies ist eine Alpha-Version somit wird nur der 1LIVE Sender unterstützt. Schreibe uns falls du Ideen/Vorschläge zu weiteren Sendern/Funktionen haben.
+Wir freuen uns auf dein Feedback!</string>
+    <string name="Tutorial_3">Zum Tutorial bitte nach rechts wischen.</string>
+</resources>
